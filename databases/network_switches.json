@@ -1,0 +1,29 @@
+[
+  {
+    "Section": "Network Switch",
+    "Brand": "Netgear",
+    "SKU": "GSM4212P-100EUS",
+    "Name": "GSM4212P",
+    "gbePorts": 2,
+    "poePorts": 8,
+    "sfpPorts": 2
+  },
+  {
+    "Section": "Network Switch",
+    "Brand": "Netgear",
+    "SKU": "GSM4230P",
+    "Name": "GSM4230P",
+    "gbePorts": 2,
+    "poePorts": 24,
+    "sfpPorts": 4
+  },
+  {
+    "Section": "Network Switch",
+    "Brand": "Netgear",
+    "SKU": "GSM4248P-100EUS",
+    "Name": "GSM4248P",
+    "gbePorts": 0,
+    "poePorts": 40,
+    "sfpPorts": 8
+  }
+]

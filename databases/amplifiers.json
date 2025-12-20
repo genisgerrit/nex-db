@@ -1,0 +1,333 @@
+
+[
+  {
+    "brand": "DAS",
+    "model": "HA 500",
+    "sku": "HA-500",
+    "channels": 2,
+    "wattage_per_channel": 250,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": null,
+    "channel_consumption_100v": null
+  },
+  {
+    "brand": "DAS",
+    "model": "HA 900",
+    "sku": "HA-900",
+    "channels": 2,
+    "wattage_per_channel": 450,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": null,
+    "channel_consumption_100v": null
+  },
+  {
+    "brand": "DAS",
+    "model": "HA 1500",
+    "sku": "HA-1500",
+    "channels": 2,
+    "wattage_per_channel": 750,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": null,
+    "channel_consumption_100v": null
+  },
+  {
+    "brand": "DAS",
+    "model": "HA 2700",
+    "sku": "HA-2700",
+    "channels": 2,
+    "wattage_per_channel": 1350,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": null,
+    "channel_consumption_100v": null
+  },
+  {
+    "brand": "DAS",
+    "model": "HA 4000",
+    "sku": "HA-4000",
+    "channels": 2,
+    "wattage_per_channel": 2000,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": null,
+    "channel_consumption_100v": null
+  },
+  {
+    "brand": "DAS",
+    "model": "A402",
+    "sku": "INTEGRAL-A402",
+    "channels": 2,
+    "wattage_per_channel": 200,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": null,
+    "channel_consumption_100v": null
+  },
+  {
+    "brand": "DAS",
+    "model": "A404",
+    "sku": "INTEGRAL-A404",
+    "channels": 4,
+    "wattage_per_channel": 100,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": null,
+    "channel_consumption_100v": null
+  },
+  {
+    "brand": "DAS",
+    "model": "A1002",
+    "sku": "INTEGRAL-A1002",
+    "channels": 2,
+    "wattage_per_channel": 500,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": 1000,
+    "channel_consumption_100v": 2
+  },
+  {
+    "brand": "DAS",
+    "model": "A1004",
+    "sku": "INTEGRAL-A1004",
+    "channels": 4,
+    "wattage_per_channel": 250,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": 500,
+    "channel_consumption_100v": 2
+  },
+  {
+    "brand": "DAS",
+    "model": "A1602",
+    "sku": "INTEGRAL-A1602",
+    "channels": 2,
+    "wattage_per_channel": 800,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": 1600,
+    "channel_consumption_100v": 2
+  },
+  {
+    "brand": "DAS",
+    "model": "A1604",
+    "sku": "INTEGRAL-A1604",
+    "channels": 4,
+    "wattage_per_channel": 400,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": 800,
+    "channel_consumption_100v": 2
+  },
+  {
+    "brand": "DAS",
+    "model": "MA1004",
+    "sku": "INTEGRAL-MA1004",
+    "channels": 4,
+    "wattage_per_channel": 250,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": 500,
+    "channel_consumption_100v": 2
+  },
+  {
+    "brand": "DAS",
+    "model": "MA1604",
+    "sku": "INTEGRAL-MA1604",
+    "channels": 4,
+    "wattage_per_channel": 400,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": 800,
+    "channel_consumption_100v": 2
+  },
+  {
+    "brand": "K-Array",
+    "model": "KA02",
+    "sku": "KA02 I",
+    "channels": 4,
+    "wattage_per_channel": 50,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": null,
+    "channel_consumption_100v": null
+  },
+  {
+    "brand": "K-Array",
+    "model": "KA04",
+    "sku": "KA04",
+    "channels": 4,
+    "wattage_per_channel": 150,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": null,
+    "channel_consumption_100v": null
+  },
+  {
+    "brand": "K-Array",
+    "model": "KA14",
+    "sku": "KA14 I",
+    "channels": 4,
+    "wattage_per_channel": 600,
+    "min_impedance_ohms": 2,
+    "wattage_100v_per_channel": null,
+    "channel_consumption_100v": null
+  },
+  {
+    "brand": "K-Array",
+    "model": "KA18",
+    "sku": "KA18",
+    "channels": 8,
+    "wattage_per_channel": 150,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": null,
+    "channel_consumption_100v": null
+  },
+  {
+    "brand": "K-Array",
+    "model": "KA28",
+    "sku": "KA28",
+    "channels": 8,
+    "wattage_per_channel": 600,
+    "min_impedance_ohms": 2,
+    "wattage_100v_per_channel": null,
+    "channel_consumption_100v": null
+  },
+  {
+    "brand": "K-Array",
+    "model": "KA34",
+    "sku": "KA34",
+    "channels": 4,
+    "wattage_per_channel": 750,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": null,
+    "channel_consumption_100v": null
+  },
+  {
+    "brand": "K-Array",
+    "model": "KA68",
+    "sku": "KA68",
+    "channels": 8,
+    "wattage_per_channel": 750,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": null,
+    "channel_consumption_100v": null
+  },
+  {
+    "brand": "K-Array",
+    "model": "KA104",
+    "sku": "KA104",
+    "channels": 4,
+    "wattage_per_channel": 2500,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": null,
+    "channel_consumption_100v": null
+  },
+  {
+    "brand": "K-Array",
+    "model": "KA208",
+    "sku": "KA208",
+    "channels": 8,
+    "wattage_per_channel": 2500,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": null,
+    "channel_consumption_100v": null
+  },
+  {
+    "brand": "K-Gear",
+    "model": "GA201",
+    "sku": "GA201",
+    "channels": 2,
+    "wattage_per_channel": 125,
+    "min_impedance_ohms": 2,
+    "wattage_100v_per_channel": null,
+    "channel_consumption_100v": null
+  },
+  {
+    "brand": "K-Gear",
+    "model": "GA41L",
+    "sku": "GA41L",
+    "channels": 4,
+    "wattage_per_channel": 150,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": null,
+    "channel_consumption_100v": null
+  },
+  {
+    "brand": "K-Gear",
+    "model": "GA43L",
+    "sku": "GA43L",
+    "channels": 4,
+    "wattage_per_channel": 750,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": 1500,
+    "channel_consumption_100v": 2
+  },
+  {
+    "brand": "K-Gear",
+    "model": "GA46L",
+    "sku": "GA46L",
+    "channels": 4,
+    "wattage_per_channel": 1500,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": 1500,
+    "channel_consumption_100v": 1
+  },
+  {
+    "brand": "Innosonix",
+    "model": "uMA04",
+    "sku": "1103",
+    "channels": 4,
+    "wattage_per_channel": 120,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": null,
+    "channel_consumption_100v": null
+  },
+  {
+    "brand": "Innosonix",
+    "model": "MA16/LP",
+    "sku": "1074",
+    "channels": 16,
+    "wattage_per_channel": 50,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": null,
+    "channel_consumption_100v": null
+  },
+  {
+    "brand": "Innosonix",
+    "model": "MA24/LP",
+    "sku": "1075",
+    "channels": 24,
+    "wattage_per_channel": 50,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": null,
+    "channel_consumption_100v": null
+  },
+  {
+    "brand": "Innosonix",
+    "model": "MA32/LP",
+    "sku": "1076",
+    "channels": 32,
+    "wattage_per_channel": 50,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": null,
+    "channel_consumption_100v": null
+  },
+  {
+    "brand": "Innosonix",
+    "model": "MA16/D",
+    "sku": "1071",
+    "channels": 16,
+    "wattage_per_channel": 280,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": null,
+    "channel_consumption_100v": null
+  },
+  {
+    "brand": "Innosonix",
+    "model": "MA24/D",
+    "sku": "1072",
+    "channels": 24,
+    "wattage_per_channel": 280,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": null,
+    "channel_consumption_100v": null
+  },
+  {
+    "brand": "Innosonix",
+    "model": "MA32/D",
+    "sku": "1073",
+    "channels": 32,
+    "wattage_per_channel": 280,
+    "min_impedance_ohms": 4,
+    "wattage_100v_per_channel": null,
+    "channel_consumption_100v": null
+  }
+]

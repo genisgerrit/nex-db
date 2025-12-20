@@ -1,4 +1,2454 @@
+
 {
-    "items": []
-  }
-  
+  "products": [
+    {
+      "name": "ARTEC-306",
+      "brand": "DAS",
+      "type": "Point Source",
+      "id": "ARTEC-306",
+      "SKU": "ARTEC-306",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 100,
+      "aesWattage": 133,
+      "peakWattage": 400,
+      "isBiamped": false,
+      "connectorType": "Strip Terminal",
+      "dimensions": {
+        "w": 195,
+        "d": 260,
+        "h": 385
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-500"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Wattage": 100,
+      "Vertical Bracket": "AXW-3",
+      "100V Compatible": true
+    },
+    {
+      "name": "ARTEC-326",
+      "brand": "DAS",
+      "type": "Point Source",
+      "id": "ARTEC-326",
+      "SKU": "ARTEC-326",
+      "impedance": 16,
+      "impedanceOptions": [
+        "16"
+      ],
+      "rmsWattage": 200,
+      "aesWattage": 266,
+      "peakWattage": 800,
+      "isBiamped": false,
+      "connectorType": null,
+      "dimensions": {
+        "w": 195,
+        "d": 260,
+        "h": 550
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-2700"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "Vertical Bracket": "AXW-3",
+      "100V Compatible": false
+    },
+    {
+      "name": "ARTEC-308",
+      "brand": "DAS",
+      "type": "Point Source",
+      "id": "ARTEC-308",
+      "SKU": "ARTEC-308",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 150,
+      "aesWattage": 200,
+      "peakWattage": 600,
+      "isBiamped": false,
+      "connectorType": "Strip Terminal",
+      "dimensions": {
+        "w": 245,
+        "d": 290,
+        "h": 450
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-900"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "Vertical Bracket": "AXW-3",
+      "100V Compatible": false
+    },
+    {
+      "name": "ARTEC-310.96",
+      "brand": "DAS",
+      "type": "Point Source",
+      "id": "ARTEC-310.96",
+      "SKU": "ARTEC-310.96",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 250,
+      "aesWattage": 333,
+      "peakWattage": 100,
+      "isBiamped": false,
+      "connectorType": "Strip Terminal",
+      "dimensions": {
+        "w": 295,
+        "d": 345,
+        "h": 610
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-1500"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "Vertical Bracket": "AXW-3",
+      "100V Compatible": false
+    },
+    {
+      "name": "ARTEC-312.96",
+      "brand": "DAS",
+      "type": "Point Source",
+      "id": "ARTEC-312.96",
+      "SKU": "ARTEC-312.96",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 300,
+      "aesWattage": 400,
+      "peakWattage": 1200,
+      "isBiamped": false,
+      "connectorType": "Strip Terminal",
+      "dimensions": {
+        "w": 385,
+        "d": 375,
+        "h": 615
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-1500"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "Vertical Bracket": "AXU-AR312",
+      "Horizontal Bracket": "AXU-AR312",
+      "100V Compatible": false
+    },
+    {
+      "name": "ARTEC-315.96",
+      "brand": "DAS",
+      "type": "Point Source",
+      "id": "ARTEC-315.96",
+      "SKU": "ARTEC-315.96",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 350,
+      "aesWattage": 465,
+      "peakWattage": 1400,
+      "isBiamped": false,
+      "connectorType": "Strip Terminal",
+      "dimensions": {
+        "w": 445,
+        "d": 380,
+        "h": 715
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-2700"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "Vertical Bracket": "AXU-AR315",
+      "Horizontal Bracket": "AXU-AR315",
+      "100V Compatible": false
+    },
+    {
+      "name": "ARTEC-322S",
+      "brand": "DAS",
+      "type": "Subwoofer",
+      "id": "ARTEC-322S",
+      "SKU": "ARTEC-322S",
+      "impedance": 4,
+      "impedanceOptions": [
+        "4"
+      ],
+      "rmsWattage": 800,
+      "aesWattage": 1064,
+      "peakWattage": 3200,
+      "isBiamped": false,
+      "connectorType": "Strip Terminal",
+      "dimensions": {
+        "w": 710,
+        "d": 690,
+        "h": 370
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-2700"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "ARTEC-506",
+      "brand": "DAS",
+      "type": "Point Source",
+      "id": "ARTEC-506",
+      "SKU": "ARTEC-506",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 200,
+      "aesWattage": 266,
+      "peakWattage": 800,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 195,
+        "d": 260,
+        "h": 385
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-900"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "Vertical Bracket": "AXW-1",
+      "Horizontal Bracket": "AXU-AR506",
+      "100V Compatible": false
+    },
+    {
+      "name": "ARTEC-526",
+      "brand": "DAS",
+      "type": "Point Source",
+      "id": "ARTEC-526",
+      "SKU": "ARTEC-526",
+      "impedance": 16,
+      "impedanceOptions": [
+        "16"
+      ],
+      "rmsWattage": 400,
+      "aesWattage": 532,
+      "peakWattage": 1600,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 195,
+        "d": 260,
+        "h": 550
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-4000"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "Vertical Bracket": "AXW-1",
+      "Horizontal Bracket": "AXU-AR526",
+      "100V Compatible": false
+    },
+    {
+      "name": "ARTEC-508",
+      "brand": "DAS",
+      "type": "Point Source",
+      "id": "ARTEC-508",
+      "SKU": "ARTEC-508",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 300,
+      "aesWattage": 400,
+      "peakWattage": 1200,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 245,
+        "d": 290,
+        "h": 450
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-1500"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "Vertical Bracket": "AXW-3",
+      "Horizontal Bracket": "AXU-AR508",
+      "100V Compatible": false
+    },
+    {
+      "name": "ARTEC-510",
+      "brand": "DAS",
+      "type": "Point Source",
+      "id": "ARTEC-510",
+      "SKU": "ARTEC-510",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 400,
+      "aesWattage": 532,
+      "peakWattage": 1600,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 295,
+        "d": 345,
+        "h": 610
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-2700"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "Vertical Bracket": "AXW-3",
+      "Horizontal Bracket": "AXU-AR510",
+      "100V Compatible": false
+    },
+    {
+      "name": "ARTEC-S15",
+      "brand": "DAS",
+      "type": "Subwoofer",
+      "id": "ARTEC-S15",
+      "SKU": "ARTEC-S15",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 800,
+      "aesWattage": 1064,
+      "peakWattage": 3200,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 465,
+        "d": 585,
+        "h": 515
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-4000"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "Q-3-T",
+      "brand": "DAS",
+      "type": "Column Array",
+      "id": "Q-3-T",
+      "SKU": "Q-3-T",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 20,
+      "aesWattage": 26,
+      "peakWattage": 80,
+      "isBiamped": false,
+      "connectorType": "Pheonix",
+      "dimensions": {
+        "w": 125,
+        "d": 125,
+        "h": 105
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-500"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Wattage": 20,
+      "100V Compatible": true
+    },
+    {
+      "name": "Q-23-T",
+      "brand": "DAS",
+      "type": "Column Array",
+      "id": "Q-23-T",
+      "SKU": "Q-23-T",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 40,
+      "aesWattage": 53,
+      "peakWattage": 160,
+      "isBiamped": false,
+      "connectorType": "Pheonix",
+      "dimensions": {
+        "w": 125,
+        "d": 125,
+        "h": 190
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-500"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Wattage": 30,
+      "100V Compatible": true
+    },
+    {
+      "name": "Q-43-T",
+      "brand": "DAS",
+      "type": "Column Array",
+      "id": "Q-43-T",
+      "SKU": "Q-43-T",
+      "impedance": 4,
+      "impedanceOptions": [
+        "4"
+      ],
+      "rmsWattage": 80,
+      "aesWattage": 106,
+      "peakWattage": 320,
+      "isBiamped": false,
+      "connectorType": "Pheonix",
+      "dimensions": {
+        "w": 125,
+        "d": 125,
+        "h": 355
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-500"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Wattage": 50,
+      "100V Compatible": true
+    },
+    {
+      "name": "Q-83-T",
+      "brand": "DAS",
+      "type": "Column Array",
+      "id": "Q-83-T",
+      "SKU": "Q-83-T",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 160,
+      "aesWattage": 212,
+      "peakWattage": 640,
+      "isBiamped": false,
+      "connectorType": "Pheonix",
+      "dimensions": {
+        "w": 125,
+        "d": 130,
+        "h": 685
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-900"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Wattage": 100,
+      "100V Compatible": true
+    },
+    {
+      "name": "Q-8",
+      "brand": "DAS",
+      "type": "Subwoofer",
+      "id": "Q-8",
+      "SKU": "Q-8",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 200,
+      "aesWattage": 266,
+      "peakWattage": 800,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 405,
+        "d": 265,
+        "h": 260
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-900"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "Q-10",
+      "brand": "DAS",
+      "type": "Subwoofer",
+      "id": "Q-10",
+      "SKU": "Q-10",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 250,
+      "aesWattage": 333,
+      "peakWattage": 1000,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 505,
+        "d": 415,
+        "h": 305
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-1500"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "ARCO-4-T",
+      "brand": "DAS",
+      "type": "Point Source",
+      "id": "ARCO-4-T",
+      "SKU": "ARCO-4-T",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 50,
+      "aesWattage": 66,
+      "peakWattage": 200,
+      "isBiamped": false,
+      "connectorType": "Spring Terminal",
+      "dimensions": {
+        "w": 135,
+        "d": 140,
+        "h": 210
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-500"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Wattage": 15,
+      "Horizontal Bracket": "AXU-AC4",
+      "100V Compatible": true
+    },
+    {
+      "name": "ARCO-24-T",
+      "brand": "DAS",
+      "type": "Point Source",
+      "id": "ARCO-24-T",
+      "SKU": "ARCO-24-T",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 100,
+      "aesWattage": 133,
+      "peakWattage": 400,
+      "isBiamped": false,
+      "connectorType": "Spring Terminal",
+      "dimensions": {
+        "w": 145,
+        "d": 140,
+        "h": 340
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-500"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Wattage": 30,
+      "Horizontal Bracket": "AXU-AC24",
+      "100V Compatible": true
+    },
+    {
+      "name": "ARCO-12SUB",
+      "brand": "DAS",
+      "type": "Subwoofer",
+      "id": "ARCO-12SUB",
+      "SKU": "ARCO-12SUB",
+      "impedance": 4,
+      "impedanceOptions": [
+        "4"
+      ],
+      "rmsWattage": 340,
+      "aesWattage": 450,
+      "peakWattage": 1360,
+      "isBiamped": false,
+      "connectorType": "Spring Terminal",
+      "dimensions": {
+        "w": 595,
+        "d": 270,
+        "h": 360
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-1500"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "DECO-5-T",
+      "brand": "DAS",
+      "type": "Ceiling Speaker",
+      "id": "DECO-5-T",
+      "SKU": "DECO-5-T",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 20,
+      "aesWattage": 26,
+      "peakWattage": 80,
+      "isBiamped": false,
+      "connectorType": "Spring Terminal",
+      "dimensions": {
+        "d": 75,
+        "diameter": 205
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-500",
+        "GA201",
+        "GA41"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Wattage": 12,
+      "100V Compatible": true
+    },
+    {
+      "name": "DECO-6-T",
+      "brand": "DAS",
+      "type": "Ceiling Speaker",
+      "id": "DECO-6-T",
+      "SKU": "DECO-6-T",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 40,
+      "aesWattage": 53,
+      "peakWattage": 160,
+      "isBiamped": false,
+      "connectorType": "Spring Terminal",
+      "dimensions": {
+        "d": 80,
+        "diameter": 230
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-500",
+        "GA41"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Wattage": 15,
+      "100V Compatible": true
+    },
+    {
+      "name": "DECO-8-T",
+      "brand": "DAS",
+      "type": "Ceiling Speaker",
+      "id": "DECO-8-T",
+      "SKU": "DECO-8-T",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 60,
+      "aesWattage": 80,
+      "peakWattage": 240,
+      "isBiamped": false,
+      "connectorType": "Spring Terminal",
+      "dimensions": {
+        "d": 115,
+        "diameter": 285
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-500",
+        "GA41"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Wattage": 30,
+      "100V Compatible": true
+    },
+    {
+      "name": "DECO-40-T",
+      "brand": "DAS",
+      "type": "Ceiling Speaker",
+      "id": "2x DECO-40-T",
+      "SKU": "2x DECO-40-T",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 50,
+      "aesWattage": 66,
+      "peakWattage": 200,
+      "isBiamped": false,
+      "connectorType": "Spring Terminal",
+      "dimensions": {
+        "d": 220,
+        "diameter": 220
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-500",
+        "GA41"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Wattage": 30,
+      "Vertical Bracket": "PK-40T",
+      "Horizontal Bracket": "PK-40T",
+      "100V Compatible": true
+    },
+    {
+      "name": "DECO-65-T",
+      "brand": "DAS",
+      "type": "Ceiling Speaker",
+      "id": "DECO-65-T",
+      "SKU": "DECO-65-T",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 60,
+      "aesWattage": 80,
+      "peakWattage": 240,
+      "isBiamped": false,
+      "connectorType": "Spring Terminal",
+      "dimensions": {
+        "d": 220,
+        "diameter": 280
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-500",
+        "GA41"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Wattage": 60,
+      "Vertical Bracket": "PK-65T",
+      "Horizontal Bracket": "PK-65T",
+      "100V Compatible": true
+    },
+    {
+      "name": "DECO-80-T",
+      "brand": "DAS",
+      "type": "Ceiling Speaker",
+      "id": "DECO-80-T",
+      "SKU": "DECO-80-T",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 125,
+      "aesWattage": 166,
+      "peakWattage": 500,
+      "isBiamped": false,
+      "connectorType": "Spring Terminal",
+      "dimensions": {
+        "d": 220,
+        "diameter": 321
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-500",
+        "HA900"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Wattage": 60,
+      "Vertical Bracket": "PK-80T",
+      "Horizontal Bracket": "PK-80T",
+      "100V Compatible": true
+    },
+    {
+      "name": "DECO-80-TS",
+      "brand": "DAS",
+      "type": "Ceiling Speaker",
+      "id": "DECO-80-TS",
+      "SKU": "DECO-80-TS",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 200,
+      "aesWattage": 266,
+      "peakWattage": 800,
+      "isBiamped": false,
+      "connectorType": "Spring Terminal",
+      "dimensions": {
+        "d": 220,
+        "diameter": 321
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-900"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Wattage": 100,
+      "Vertical Bracket": "PK-80T",
+      "Horizontal Bracket": "PK-80T",
+      "100V Compatible": true
+    },
+    {
+      "name": "Lyzard-KZ1 I",
+      "brand": "K-Array",
+      "type": "Column Array",
+      "id": "KZ1 I",
+      "SKU": "KZ1 I",
+      "impedance": 16,
+      "impedanceOptions": [
+        "16"
+      ],
+      "rmsWattage": 2,
+      "aesWattage": 3,
+      "peakWattage": 10,
+      "isBiamped": false,
+      "connectorType": "Screw Terminal",
+      "dimensions": {
+        "w": 22,
+        "d": 11,
+        "h": 37
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA02 I",
+        "KA04",
+        "KA18",
+        "KA14 I",
+        "KA28",
+        "KA34",
+        "KA68",
+        "KA104",
+        "KA208"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "Lyzard-KZ14 I",
+      "brand": "K-Array",
+      "type": "Column Array",
+      "id": "KZ14 I",
+      "SKU": "KZ14 I",
+      "impedance": 16,
+      "impedanceOptions": [
+        "16"
+      ],
+      "rmsWattage": 11,
+      "aesWattage": 15,
+      "peakWattage": 44,
+      "isBiamped": false,
+      "connectorType": "Screw Terminal",
+      "dimensions": {
+        "w": 22,
+        "d": 11,
+        "h": 100
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA02 I",
+        "KA04",
+        "KA18",
+        "KA14 I",
+        "KA28",
+        "KA34",
+        "KA68",
+        "KA104",
+        "KA208"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "Vyper-KV25 II",
+      "brand": "K-Array",
+      "type": "Column Array",
+      "id": "KV25 II",
+      "SKU": "KV25 II",
+      "impedance": 16,
+      "impedanceOptions": [
+        "8",
+        "32"
+      ],
+      "rmsWattage": 56,
+      "aesWattage": 75,
+      "peakWattage": 225,
+      "isBiamped": false,
+      "connectorType": "Screw Terminal",
+      "dimensions": {
+        "w": 40,
+        "d": 22,
+        "h": 260
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA02 I",
+        "KA04",
+        "KA18",
+        "KA14 I",
+        "KA28"
+      ],
+      "compatibleAmplifiersImpedance2": [
+        "KA34",
+        "KA68",
+        "KA104",
+        "KA208"
+      ],
+      "100V Compatible": false
+    },
+    {
+      "name": "Vyper-KV52 II",
+      "brand": "K-Array",
+      "type": "Column Array",
+      "id": "KV52 II",
+      "SKU": "KV52 II",
+      "impedance": 16,
+      "impedanceOptions": [
+        "16",
+        "64"
+      ],
+      "rmsWattage": 112,
+      "aesWattage": 150,
+      "peakWattage": 448,
+      "isBiamped": false,
+      "connectorType": "Screw Terminal",
+      "dimensions": {
+        "w": 40,
+        "d": 22,
+        "h": 500
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA34",
+        "KA68"
+      ],
+      "compatibleAmplifiersImpedance2": [
+        "KA104",
+        "KA208"
+      ],
+      "100V Compatible": false
+    },
+    {
+      "name": "Vyper-KV102 II",
+      "brand": "K-Array",
+      "type": "Column Array",
+      "id": "KV102 II",
+      "SKU": "KV102 II",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8",
+        "32"
+      ],
+      "rmsWattage": 225,
+      "aesWattage": 300,
+      "peakWattage": 900,
+      "isBiamped": false,
+      "connectorType": "Screw Terminal",
+      "dimensions": {
+        "w": 40,
+        "d": 22,
+        "h": 1000
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA34",
+        "KA68"
+      ],
+      "compatibleAmplifiersImpedance2": [
+        "KA104",
+        "KA208"
+      ],
+      "100V Compatible": false
+    },
+    {
+      "name": "Tornado-KT2",
+      "brand": "K-Array",
+      "type": "Point Source",
+      "id": "KT2",
+      "SKU": "KT2",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8",
+        "32"
+      ],
+      "rmsWattage": 14,
+      "aesWattage": 18,
+      "peakWattage": 56,
+      "isBiamped": false,
+      "connectorType": "Screw Terminal",
+      "dimensions": {
+        "w": 74,
+        "d": 118,
+        "h": 74
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA02 I"
+      ],
+      "compatibleAmplifiersImpedance2": [
+        "KA04",
+        "KA18",
+        "KA14 I",
+        "KA28",
+        "KA34",
+        "KA68",
+        "KA104",
+        "KA208"
+      ],
+      "100V Compatible": false
+    },
+    {
+      "name": "Tornado-KT2C",
+      "brand": "K-Array",
+      "type": "Ceiling Speaker",
+      "id": "KT2C",
+      "SKU": "KT2C",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8",
+        "32"
+      ],
+      "rmsWattage": 14,
+      "aesWattage": 18,
+      "peakWattage": 56,
+      "isBiamped": false,
+      "connectorType": "Screw Terminal",
+      "dimensions": {
+        "d": 119,
+        "diameter": 125
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA02 I"
+      ],
+      "compatibleAmplifiersImpedance2": [
+        "KA04",
+        "KA18",
+        "KA14 I",
+        "KA28",
+        "KA34",
+        "KA68",
+        "KA104",
+        "KA208"
+      ],
+      "100V Compatible": false
+    },
+    {
+      "name": "Kobra-KK52 I",
+      "brand": "K-Array",
+      "type": "Column Array",
+      "id": "KK52 I",
+      "SKU": "KK52 I",
+      "impedance": 8,
+      "impedanceOptions": [
+        "16",
+        "64"
+      ],
+      "rmsWattage": 150,
+      "aesWattage": 200,
+      "peakWattage": 600,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 59,
+        "d": 81,
+        "h": 497
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA34",
+        "KA68"
+      ],
+      "compatibleAmplifiersImpedance2": [
+        "KA104",
+        "KA208"
+      ],
+      "Vertical Bracket": "K-WALL2L",
+      "Horizontal Bracket": "K-WALL2L",
+      "100V Compatible": false
+    },
+    {
+      "name": "Kobra-KK102 I",
+      "brand": "K-Array",
+      "type": "Column Array",
+      "id": "KK102 I",
+      "SKU": "KK102 I",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8",
+        "32"
+      ],
+      "rmsWattage": 300,
+      "aesWattage": 400,
+      "peakWattage": 1200,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 59,
+        "d": 81,
+        "h": 1000
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA34",
+        "KA68"
+      ],
+      "compatibleAmplifiersImpedance2": [
+        "KA104",
+        "KA208"
+      ],
+      "Vertical Bracket": "K-WALL2",
+      "Horizontal Bracket": "K-WALL2",
+      "100V Compatible": false
+    },
+    {
+      "name": "Python-KP52 I",
+      "brand": "K-Array",
+      "type": "Column Array",
+      "id": "KP52 I",
+      "SKU": "KP52 I",
+      "impedance": 16,
+      "impedanceOptions": [
+        "8",
+        "32"
+      ],
+      "rmsWattage": 270,
+      "aesWattage": 360,
+      "peakWattage": 1080,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 89,
+        "d": 118,
+        "h": 520
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA34",
+        "KA68"
+      ],
+      "compatibleAmplifiersImpedance2": [
+        "KA104",
+        "KA208"
+      ],
+      "Vertical Bracket": "K-WALL2L",
+      "Horizontal Bracket": "K-WALL2L",
+      "100V Compatible": false
+    },
+    {
+      "name": "Python-KP102 I",
+      "brand": "K-Array",
+      "type": "Column Array",
+      "id": "KP102 I",
+      "SKU": "KP102 I",
+      "impedance": 4,
+      "impedanceOptions": [
+        "4",
+        "16"
+      ],
+      "rmsWattage": 540,
+      "aesWattage": 720,
+      "peakWattage": 2160,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 89,
+        "d": 118,
+        "h": 1000
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA34",
+        "KA68"
+      ],
+      "compatibleAmplifiersImpedance2": [
+        "KA104",
+        "KA208"
+      ],
+      "Vertical Bracket": "K-WALL2",
+      "Horizontal Bracket": "K-WALL2",
+      "100V Compatible": false
+    },
+    {
+      "name": "Kayman-KY52",
+      "brand": "K-Array",
+      "type": "Column Array",
+      "id": "KY52",
+      "SKU": "KY52",
+      "impedance": 8,
+      "impedanceOptions": [
+        "4",
+        "16"
+      ],
+      "rmsWattage": 450,
+      "aesWattage": 600,
+      "peakWattage": 1800,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 116,
+        "d": 134,
+        "h": 510
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA34",
+        "KA68"
+      ],
+      "compatibleAmplifiersImpedance2": [
+        "KA104",
+        "KA208"
+      ],
+      "Vertical Bracket": "K-WALL2",
+      "Horizontal Bracket": "K-WALL2",
+      "100V Compatible": false
+    },
+    {
+      "name": "Kayman-KY102",
+      "brand": "K-Array",
+      "type": "Column Array",
+      "id": "KY102",
+      "SKU": "KY102",
+      "impedance": 4,
+      "impedanceOptions": [
+        "8",
+        "32"
+      ],
+      "rmsWattage": 900,
+      "aesWattage": 1200,
+      "peakWattage": 3600,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 116,
+        "d": 134,
+        "h": 1000
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA104",
+        "KA208"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "Vertical Bracket": "K-WALL2",
+      "Horizontal Bracket": "K-WALL2",
+      "100V Compatible": false
+    },
+    {
+      "name": "Domino-KF26",
+      "brand": "K-Array",
+      "type": "Point Source",
+      "id": "KF26",
+      "SKU": "KF26",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8",
+        "32"
+      ],
+      "rmsWattage": 120,
+      "aesWattage": 160,
+      "peakWattage": 480,
+      "isBiamped": false,
+      "connectorType": "Pheonix",
+      "dimensions": {
+        "w": 180,
+        "d": 118,
+        "h": 350
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA14 I",
+        "KA28",
+        "KA34",
+        "KA68"
+      ],
+      "compatibleAmplifiersImpedance2": [
+        "KA104",
+        "KA208"
+      ],
+      "Vertical Bracket": "K-WALL2L",
+      "Horizontal Bracket": "K-WALL2L",
+      "100V Compatible": false
+    },
+    {
+      "name": "Domino-KF210",
+      "brand": "K-Array",
+      "type": "Point Source",
+      "id": "KF210",
+      "SKU": "KF210",
+      "impedance": 4,
+      "impedanceOptions": [
+        "4",
+        "16"
+      ],
+      "rmsWattage": 240,
+      "aesWattage": 320,
+      "peakWattage": 960,
+      "isBiamped": false,
+      "connectorType": "Pheonix",
+      "dimensions": {
+        "w": 282,
+        "d": 151,
+        "h": 500
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA14 I",
+        "KA28",
+        "KA34",
+        "KA68"
+      ],
+      "compatibleAmplifiersImpedance2": [
+        "KA104",
+        "KA208"
+      ],
+      "Vertical Bracket": "K-WALL2",
+      "Horizontal Bracket": "K-WALL2",
+      "100V Compatible": false
+    },
+    {
+      "name": "Domino-KF212",
+      "brand": "K-Array",
+      "type": "Point Source",
+      "id": "KF212",
+      "SKU": "KF212",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 526,
+      "aesWattage": 700,
+      "peakWattage": 2100,
+      "isBiamped": false,
+      "connectorType": "Pheonix",
+      "dimensions": {
+        "w": 330,
+        "d": 200,
+        "h": 655
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA104",
+        "KA208"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "Vertical Bracket": "K-WALL2",
+      "Horizontal Bracket": "K-WALL2",
+      "100V Compatible": false
+    },
+    {
+      "name": "Dragon-KX12",
+      "brand": "K-Array",
+      "type": "Point Source",
+      "id": "KX12 I",
+      "SKU": "KX12 I",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 600,
+      "aesWattage": 800,
+      "peakWattage": 2400,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 350,
+        "d": 203,
+        "h": 350
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA104",
+        "KA208"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "Vertical Bracket": "K-WALL2",
+      "Horizontal Bracket": "K-WALL2",
+      "100V Compatible": false
+    },
+    {
+      "name": "Dragon-KXT12P",
+      "brand": "K-Array",
+      "type": "Point Source",
+      "id": "KXT12P",
+      "SKU": "KXT12P",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 900,
+      "aesWattage": 1200,
+      "peakWattage": 3600,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 500,
+        "d": 400,
+        "h": 735
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA104",
+        "KA208"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "Horizontal Bracket": "K-UBRACKETKXT18",
+      "100V Compatible": false
+    },
+    {
+      "name": "Dragon-KXT18P",
+      "brand": "K-Array",
+      "type": "Point Source",
+      "id": "KXT18P",
+      "SKU": "KXT18P",
+      "impedance": 4,
+      "impedanceOptions": [
+        "4"
+      ],
+      "rmsWattage": 1200,
+      "aesWattage": 1600,
+      "peakWattage": 4800,
+      "isBiamped": true,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 650,
+        "d": 580,
+        "h": 735
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA104",
+        "KA208"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "Horizontal Bracket": "K-UBRACKETKXT18",
+      "100V Compatible": false
+    },
+    {
+      "name": "Rumble-KU26",
+      "brand": "K-Array",
+      "type": "Subwoofer",
+      "id": "KU26",
+      "SKU": "KU26",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8",
+        "32"
+      ],
+      "rmsWattage": 120,
+      "aesWattage": 160,
+      "peakWattage": 480,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 180,
+        "d": 118,
+        "h": 350
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA04",
+        "KA18",
+        "KA14 I",
+        "KA28",
+        "KA34",
+        "KA68"
+      ],
+      "compatibleAmplifiersImpedance2": [
+        "KA104",
+        "KA208"
+      ],
+      "100V Compatible": false
+    },
+    {
+      "name": "Rumble-KU210",
+      "brand": "K-Array",
+      "type": "Subwoofer",
+      "id": "KU210",
+      "SKU": "KU210",
+      "impedance": 4,
+      "impedanceOptions": [
+        "4",
+        "16"
+      ],
+      "rmsWattage": 240,
+      "aesWattage": 320,
+      "peakWattage": 960,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 282,
+        "d": 151,
+        "h": 500
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA14 I",
+        "KA28",
+        "KA34",
+        "KA68"
+      ],
+      "compatibleAmplifiersImpedance2": [
+        "KA104",
+        "KA208"
+      ],
+      "100V Compatible": false
+    },
+    {
+      "name": "Rumble-KU212",
+      "brand": "K-Array",
+      "type": "Subwoofer",
+      "id": "KU212",
+      "SKU": "KU212",
+      "impedance": 4,
+      "impedanceOptions": [
+        "4",
+        "16"
+      ],
+      "rmsWattage": 526,
+      "aesWattage": 700,
+      "peakWattage": 2100,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 330,
+        "d": 200,
+        "h": 655
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA34",
+        "KA68"
+      ],
+      "compatibleAmplifiersImpedance2": [
+        "KA104",
+        "KA208"
+      ],
+      "100V Compatible": false
+    },
+    {
+      "name": "Rumble-KU44",
+      "brand": "K-Array",
+      "type": "Subwoofer",
+      "id": "KU44 I",
+      "SKU": "KU44 I",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8",
+        "32"
+      ],
+      "rmsWattage": 90,
+      "aesWattage": 120,
+      "peakWattage": 360,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 500,
+        "d": 100,
+        "h": 116
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA04",
+        "KA18",
+        "KA14 I",
+        "KA28",
+        "KA34",
+        "KA68"
+      ],
+      "compatibleAmplifiersImpedance2": [
+        "KA104",
+        "KA208"
+      ],
+      "100V Compatible": false
+    },
+    {
+      "name": "Rumble-KU315",
+      "brand": "K-Array",
+      "type": "Subwoofer",
+      "id": "KU315",
+      "SKU": "KU315",
+      "impedance": 4,
+      "impedanceOptions": [
+        "4"
+      ],
+      "rmsWattage": 1500,
+      "aesWattage": 2000,
+      "peakWattage": 6000,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 1230,
+        "d": 250,
+        "h": 450
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA104",
+        "KA208"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "Truffle-KTR24",
+      "brand": "K-Array",
+      "type": "Subwoofer",
+      "id": "KTR24",
+      "SKU": "KTR24",
+      "impedance": 4,
+      "impedanceOptions": [
+        "4"
+      ],
+      "rmsWattage": 45,
+      "aesWattage": 60,
+      "peakWattage": 180,
+      "isBiamped": false,
+      "connectorType": "Pheonix",
+      "dimensions": {
+        "w": 122,
+        "d": 199,
+        "h": 117
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA02 I",
+        "KA04",
+        "KA18",
+        "KA14 I",
+        "KA28",
+        "KA34",
+        "KA68",
+        "KA104",
+        "KA208"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "Truffle-KTR25",
+      "brand": "K-Array",
+      "type": "Subwoofer",
+      "id": "KTR25",
+      "SKU": "KTR25",
+      "impedance": 4,
+      "impedanceOptions": [
+        "4"
+      ],
+      "rmsWattage": 60,
+      "aesWattage": 80,
+      "peakWattage": 240,
+      "isBiamped": false,
+      "connectorType": "Pheonix",
+      "dimensions": {
+        "w": 152,
+        "d": 258,
+        "h": 147
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA02 I",
+        "KA04",
+        "KA18",
+        "KA14 I",
+        "KA28",
+        "KA34",
+        "KA68",
+        "KA104",
+        "KA208"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "Truffle-KTR26",
+      "brand": "K-Array",
+      "type": "Subwoofer",
+      "id": "KTR26",
+      "SKU": "KTR26",
+      "impedance": 2,
+      "impedanceOptions": [
+        "2"
+      ],
+      "rmsWattage": 75,
+      "aesWattage": 100,
+      "peakWattage": 300,
+      "isBiamped": false,
+      "connectorType": "Pheonix",
+      "dimensions": {
+        "w": 182,
+        "d": 341,
+        "h": 176
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA14 I",
+        "KA28"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "Thunder-KS1P",
+      "brand": "K-Array",
+      "type": "Subwoofer",
+      "id": "KS1P I",
+      "SKU": "KS1P I",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 300,
+      "aesWattage": 400,
+      "peakWattage": 1200,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 500,
+        "d": 440,
+        "h": 350
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA104",
+        "KA208"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "Thunder-KS2P",
+      "brand": "K-Array",
+      "type": "Subwoofer",
+      "id": "KS2P I",
+      "SKU": "KS2P I",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 350,
+      "aesWattage": 465,
+      "peakWattage": 1400,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 650,
+        "d": 580,
+        "h": 500
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA104",
+        "KA208"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "Thunder-KS3P",
+      "brand": "K-Array",
+      "type": "Subwoofer",
+      "id": "KS3P I",
+      "SKU": "KS3P I",
+      "impedance": 4,
+      "impedanceOptions": [
+        "4"
+      ],
+      "rmsWattage": 700,
+      "aesWattage": 932,
+      "peakWattage": 2800,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 735,
+        "d": 700,
+        "h": 580
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA104",
+        "KA208"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "Thunder-KS4P",
+      "brand": "K-Array",
+      "type": "Subwoofer",
+      "id": "KS4P I",
+      "SKU": "KS4P I",
+      "impedance": 4,
+      "impedanceOptions": [
+        "4"
+      ],
+      "rmsWattage": 700,
+      "aesWattage": 932,
+      "peakWattage": 2800,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 1106,
+        "d": 580,
+        "h": 500
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA104",
+        "KA208"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "Thunder-KSC12P",
+      "brand": "K-Array",
+      "type": "Subwoofer",
+      "id": "KSC12P",
+      "SKU": "KSC12P",
+      "impedance": 4,
+      "impedanceOptions": [
+        "4"
+      ],
+      "rmsWattage": 300,
+      "aesWattage": 400,
+      "peakWattage": 1200,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 900,
+        "d": 250,
+        "h": 500
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA34",
+        "KA68",
+        "KA104",
+        "KA208"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "Thunder-KSC18P",
+      "brand": "K-Array",
+      "type": "Subwoofer",
+      "id": "KSC18P",
+      "SKU": "KSC18P",
+      "impedance": 4,
+      "impedanceOptions": [
+        "4"
+      ],
+      "rmsWattage": 900,
+      "aesWattage": 1200,
+      "peakWattage": 3600,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 1100,
+        "d": 380,
+        "h": 700
+      },
+      "compatibleAmplifiersImpedance1": [
+        "KA104",
+        "KA208"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "GH4",
+      "brand": "K-Gear",
+      "type": "Point Source",
+      "id": "GH4",
+      "SKU": "GH4",
+      "impedance": 4,
+      "impedanceOptions": [
+        "4",
+        "16"
+      ],
+      "rmsWattage": 105,
+      "aesWattage": 140,
+      "peakWattage": 420,
+      "isBiamped": false,
+      "connectorType": "Pheonix",
+      "dimensions": {
+        "w": 112,
+        "d": 94,
+        "h": 112
+      },
+      "compatibleAmplifiersImpedance1": [
+        "GA41L"
+      ],
+      "compatibleAmplifiersImpedance2": [
+        "GA43L",
+        "GA46L"
+      ],
+      "Vertical Bracket": "GF-WALL",
+      "100V Compatible": false
+    },
+    {
+      "name": "GH8",
+      "brand": "K-Gear",
+      "type": "Point Source",
+      "id": "GH8",
+      "SKU": "GH8",
+      "impedance": 16,
+      "impedanceOptions": [
+        "16"
+      ],
+      "rmsWattage": 225,
+      "aesWattage": 300,
+      "peakWattage": 900,
+      "isBiamped": false,
+      "connectorType": "Pheonix",
+      "dimensions": {
+        "w": 220,
+        "d": 161,
+        "h": 220
+      },
+      "compatibleAmplifiersImpedance1": [
+        "GA43L",
+        "GA46L"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "Vertical Bracket": "K-WALL2",
+      "100V Compatible": false
+    },
+    {
+      "name": "GH12",
+      "brand": "K-Gear",
+      "type": "Point Source",
+      "id": "GH12",
+      "SKU": "GH12",
+      "impedance": 32,
+      "impedanceOptions": [
+        "32"
+      ],
+      "rmsWattage": 300,
+      "aesWattage": 400,
+      "peakWattage": 1200,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 327,
+        "d": 198,
+        "h": 334
+      },
+      "compatibleAmplifiersImpedance1": [
+        "GA46L"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "Vertical Bracket": "K-WALL2",
+      "100V Compatible": false
+    },
+    {
+      "name": "GG6",
+      "brand": "K-Gear",
+      "type": "Point Source",
+      "id": "GG6",
+      "SKU": "GG6",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 40,
+      "aesWattage": 53,
+      "peakWattage": 160,
+      "isBiamped": false,
+      "connectorType": "Screw Terminal",
+      "dimensions": {
+        "w": 193,
+        "d": 180,
+        "h": 310
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-500",
+        "GA41"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "GF22",
+      "brand": "K-Gear",
+      "type": "Column Array",
+      "id": "GF22",
+      "SKU": "GF22",
+      "impedance": 16,
+      "impedanceOptions": [
+        "16"
+      ],
+      "rmsWattage": 37,
+      "aesWattage": 50,
+      "peakWattage": 150,
+      "isBiamped": false,
+      "connectorType": "Pheonix",
+      "dimensions": {
+        "w": 60,
+        "d": 72,
+        "h": 590
+      },
+      "compatibleAmplifiersImpedance1": [
+        "GA201",
+        "GA41L"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "Vertical Bracket": "GF-WALL",
+      "100V Compatible": false
+    },
+    {
+      "name": "GF42",
+      "brand": "K-Gear",
+      "type": "Column Array",
+      "id": "GF42 I",
+      "SKU": "GF42 I",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8",
+        "32"
+      ],
+      "rmsWattage": 75,
+      "aesWattage": 100,
+      "peakWattage": 300,
+      "isBiamped": false,
+      "connectorType": "Pheonix",
+      "dimensions": {
+        "w": 60,
+        "d": 66,
+        "h": 340
+      },
+      "compatibleAmplifiersImpedance1": [
+        "GA41L"
+      ],
+      "compatibleAmplifiersImpedance2": [
+        "GA43L"
+      ],
+      "Vertical Bracket": "GF-WALL",
+      "100V Compatible": false
+    },
+    {
+      "name": "GF82 I",
+      "brand": "K-Gear",
+      "type": "Column Array",
+      "id": "GF82 I",
+      "SKU": "GF82 I",
+      "impedance": 16,
+      "impedanceOptions": [
+        "16",
+        "64"
+      ],
+      "rmsWattage": 150,
+      "aesWattage": 200,
+      "peakWattage": 600,
+      "isBiamped": false,
+      "connectorType": "Pheonix",
+      "dimensions": {
+        "w": 60,
+        "d": 65,
+        "h": 600
+      },
+      "compatibleAmplifiersImpedance1": [
+        "GA43L"
+      ],
+      "compatibleAmplifiersImpedance2": [
+        "GA46L"
+      ],
+      "Vertical Bracket": "GF-WALL",
+      "100V Compatible": false
+    },
+    {
+      "name": "GT12",
+      "brand": "K-Gear",
+      "type": "Point Source",
+      "id": "GT12",
+      "SKU": "GT12",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 480,
+      "aesWattage": 650,
+      "peakWattage": 1950,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 340,
+        "d": 215,
+        "h": 800
+      },
+      "compatibleAmplifiersImpedance1": [
+        "GA46L"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "Vertical Bracket": "K-WALL2",
+      "Horizontal Bracket": "GT12-UBRACKET",
+      "100V Compatible": false
+    },
+    {
+      "name": "GC3",
+      "brand": "K-Gear",
+      "type": "Ceiling Speaker",
+      "id": "GCF3",
+      "SKU": "GCF3",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 10,
+      "aesWattage": 13,
+      "peakWattage": 40,
+      "isBiamped": false,
+      "connectorType": "Spring Terminal",
+      "dimensions": {
+        "d": 58,
+        "diameter": 116
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-500",
+        "GA201",
+        "GA41"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "GC5",
+      "brand": "K-Gear",
+      "type": "Ceiling Speaker",
+      "id": "GCF5",
+      "SKU": "GCF5",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 20,
+      "aesWattage": 26,
+      "peakWattage": 80,
+      "isBiamped": false,
+      "connectorType": "Spring Terminal",
+      "dimensions": {
+        "d": 75,
+        "diameter": 196
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-500",
+        "GA201",
+        "GA41"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "GC6",
+      "brand": "K-Gear",
+      "type": "Ceiling Speaker",
+      "id": "GCF6",
+      "SKU": "GCF6",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 30,
+      "aesWattage": 40,
+      "peakWattage": 120,
+      "isBiamped": false,
+      "connectorType": "Spring Terminal",
+      "dimensions": {
+        "d": 87,
+        "diameter": 227
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-500",
+        "GA201",
+        "GA41"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "GC8",
+      "brand": "K-Gear",
+      "type": "Ceiling Speaker",
+      "id": "GCF8",
+      "SKU": "GCF8",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 25,
+      "aesWattage": 33,
+      "peakWattage": 100,
+      "isBiamped": false,
+      "connectorType": "Spring Terminal",
+      "dimensions": {
+        "d": 94,
+        "diameter": 277
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-500",
+        "GA41"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "GS6",
+      "brand": "K-Gear",
+      "type": "Ceiling Speaker",
+      "id": "GS6",
+      "SKU": "GS6",
+      "impedance": 4,
+      "impedanceOptions": [
+        "4"
+      ],
+      "rmsWattage": 30,
+      "aesWattage": 40,
+      "peakWattage": 120,
+      "isBiamped": false,
+      "connectorType": "Pheonix",
+      "dimensions": {
+        "w": 170,
+        "d": 310,
+        "h": 310
+      },
+      "compatibleAmplifiersImpedance1": [
+        "HA-500",
+        "GA201",
+        "GA41"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "GS1",
+      "brand": "K-Gear",
+      "type": "Subwoofer",
+      "id": "GS1",
+      "SKU": "GS1",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 800,
+      "aesWattage": null,
+      "peakWattage": null,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 410,
+        "d": 430,
+        "h": 440
+      },
+      "compatibleAmplifiersImpedance1": [
+        "GA46L"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "GS2",
+      "brand": "K-Gear",
+      "type": "Subwoofer",
+      "id": "GS2",
+      "SKU": "GS2",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 800,
+      "aesWattage": null,
+      "peakWattage": null,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 546,
+        "d": 590,
+        "h": 610
+      },
+      "compatibleAmplifiersImpedance1": [
+        "GA46L"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "GS4",
+      "brand": "K-Gear",
+      "type": "Subwoofer",
+      "id": "GS4",
+      "SKU": "GS4",
+      "impedance": 4,
+      "impedanceOptions": [
+        "4"
+      ],
+      "rmsWattage": 1600,
+      "aesWattage": null,
+      "peakWattage": null,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 1025,
+        "d": 590,
+        "h": 610
+      },
+      "compatibleAmplifiersImpedance1": [
+        "GA46L"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "GU210",
+      "brand": "K-Gear",
+      "type": "Subwoofer",
+      "id": "GU210",
+      "SKU": "GU210",
+      "impedance": 4,
+      "impedanceOptions": [
+        "4"
+      ],
+      "rmsWattage": 400,
+      "aesWattage": null,
+      "peakWattage": null,
+      "isBiamped": false,
+      "connectorType": "Pheonix",
+      "dimensions": {
+        "w": 560,
+        "d": 150,
+        "h": 282
+      },
+      "compatibleAmplifiersImpedance1": [
+        "GA43L"
+      ],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "IS7Px",
+      "brand": "Adamson",
+      "type": "Point Source",
+      "id": "967-0009",
+      "SKU": "967-0009",
+      "impedance": 6,
+      "impedanceOptions": [
+        "6"
+      ],
+      "rmsWattage": 375,
+      "aesWattage": 500,
+      "peakWattage": 2000,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 251,
+        "d": 356,
+        "h": 527
+      },
+      "compatibleAmplifiersImpedance1": [],
+      "compatibleAmplifiersImpedance2": [],
+      "Vertical Bracket": "934-0028",
+      "Horizontal Bracket": "934-0027",
+      "100V Compatible": false
+    },
+    {
+      "name": "IS5c",
+      "brand": "Adamson",
+      "type": "Point Source",
+      "id": "968-0003",
+      "SKU": "968-0003",
+      "impedance": 16,
+      "impedanceOptions": [
+        "16"
+      ],
+      "rmsWattage": 100,
+      "aesWattage": 125,
+      "peakWattage": 500,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 149,
+        "d": 134,
+        "h": 149
+      },
+      "compatibleAmplifiersImpedance1": [],
+      "compatibleAmplifiersImpedance2": [],
+      "Vertical Bracket": "\t934-5046",
+      "100V Compatible": false
+    },
+    {
+      "name": "IS213",
+      "brand": "Adamson",
+      "type": "Subwoofer",
+      "id": "995-0001",
+      "SKU": "995-0001",
+      "impedance": 4,
+      "impedanceOptions": [
+        "4"
+      ],
+      "rmsWattage": 1200,
+      "aesWattage": 1600,
+      "peakWattage": 6400,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 349,
+        "d": 813,
+        "h": 349
+      },
+      "compatibleAmplifiersImpedance1": [],
+      "compatibleAmplifiersImpedance2": [],
+      "100V Compatible": false
+    },
+    {
+      "name": "IS7c",
+      "brand": "Adamson",
+      "type": "Point Source",
+      "id": "967-0018",
+      "SKU": "967-0018",
+      "impedance": 16,
+      "impedanceOptions": [
+        "16"
+      ],
+      "rmsWattage": 230,
+      "aesWattage": 300,
+      "peakWattage": 1000,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 188,
+        "d": 228,
+        "h": 224.5
+      },
+      "compatibleAmplifiersImpedance1": [],
+      "compatibleAmplifiersImpedance2": [],
+      "Vertical Bracket": "934-0046",
+      "100V Compatible": false
+    },
+    {
+      "name": "Point 8",
+      "brand": "Adamson",
+      "type": "Point Source",
+      "id": "962-0008",
+      "SKU": "962-0008",
+      "impedance": 8,
+      "impedanceOptions": [
+        "8"
+      ],
+      "rmsWattage": 230,
+      "aesWattage": 300,
+      "peakWattage": 1200,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 251,
+        "d": 251,
+        "h": 451
+      },
+      "compatibleAmplifiersImpedance1": [],
+      "compatibleAmplifiersImpedance2": [],
+      "Vertical Bracket": "92-0099",
+      "100V Compatible": false
+    },
+    {
+      "name": "PC 5",
+      "brand": "Adamson",
+      "type": "Point Source",
+      "id": "968-0002",
+      "SKU": "968-0002",
+      "impedance": 4,
+      "impedanceOptions": [
+        "4"
+      ],
+      "rmsWattage": 160,
+      "aesWattage": 210,
+      "peakWattage": 840,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 171,
+        "d": 172,
+        "h": 321
+      },
+      "compatibleAmplifiersImpedance1": [],
+      "compatibleAmplifiersImpedance2": [],
+      "Vertical Bracket": "934-0024",
+      "100V Compatible": false
+    },
+    {
+      "name": "PC 5i",
+      "brand": "Adamson",
+      "type": "Point Source",
+      "id": "968-0001",
+      "SKU": "968-0001",
+      "impedance": 4,
+      "impedanceOptions": [
+        "4"
+      ],
+      "rmsWattage": 160,
+      "aesWattage": 210,
+      "peakWattage": 840,
+      "isBiamped": false,
+      "connectorType": "NL4",
+      "dimensions": {
+        "w": 171,
+        "d": 172,
+        "h": 321
+      },
+      "compatibleAmplifiersImpedance1": [],
+      "compatibleAmplifiersImpedance2": [],
+      "Vertical Bracket": "934-0024",
+      "100V Compatible": false
+    }
+  ]
+}
+
+    
