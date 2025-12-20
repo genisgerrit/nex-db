@@ -1,11 +1,10 @@
-
 {
   "products": [
     {
       "name": "ARTEC-306",
       "brand": "DAS",
       "type": "Point Source",
-      "id": "ARTEC-306",
+      "id": "ARTEC-306T",
       "SKU": "ARTEC-306",
       "impedance": 8,
       "impedanceOptions": [
@@ -2450,5 +2449,3 @@
     }
   ]
 }
-
-    
