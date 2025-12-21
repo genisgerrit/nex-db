@@ -4,13 +4,13 @@
       "name": "ARTEC-306",
       "brand": "DAS",
       "type": "Point Source",
-      "id": "ARTEC-306",
+      "id": "ARTEC-306T",
       "SKU": "ARTEC-306",
       "impedance": 8,
       "impedanceOptions": [
         "8"
       ],
-      "rmsWattage": 92,
+      "rmsWattage": 100,
       "aesWattage": 133,
       "peakWattage": 400,
       "isBiamped": false,
@@ -32,7 +32,7 @@
       "name": "ARTEC-326",
       "brand": "DAS",
       "type": "Point Source",
-      "id": "ARTEC-326",
+      "id": "ARTEC-326T",
       "SKU": "ARTEC-326",
       "impedance": 16,
       "impedanceOptions": [
