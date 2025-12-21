@@ -1,17 +1,6 @@
 {
   "products": [
     {
-      "id": "Test Product",
-      "brand": "Test",
-      "name": "this-test",
-      "type": "Point Source",
-      "rmsWattage": "100",
-      "aesWattage": "300",
-      "peakWattage": "400",
-      "impedance": "8",
-      "impedanceOptions": "[\"8\"]"
-    },
-    {
       "name": "ARTEC-306",
       "brand": "DAS",
       "type": "Point Source",
