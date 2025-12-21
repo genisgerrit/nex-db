@@ -1560,24 +1560,6 @@
       "isBiamped": false
     },
     {
-      "name": "IS5c",
-      "SKU": "968-0003",
-      "brand": "Adamson",
-      "Type": "Point Source",
-      "impedance": 16,
-      "impedanceOptions": 16,
-      "peakWattage": 500,
-      "rmsWattage": 100,
-      "aesWattage": 125,
-      "100V Compatible": false,
-      "Height": 149,
-      "Width": 153,
-      "Depth": 134,
-      "Connector Type": "NL4",
-      "Vertical Bracket": "934-0046",
-      "isBiamped": false
-    },
-    {
       "name": "IS7c",
       "SKU": "967-0018",
       "brand": "Adamson",
