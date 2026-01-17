@@ -1,11 +1,11 @@
 {
-  "version": "2025-12-21T09:43:01.714Z",
+  "version": "2026-01-17T11:23:51.909Z",
   "databases": [
     {
       "id": "speakers",
       "file": "databases/speakers.json",
       "schemaVersion": 1,
-      "updatedAt": "2025-12-21T09:43:01.714Z"
+      "updatedAt": "2026-01-17T11:23:51.909Z"
     },
     {
       "id": "amplifiers",
